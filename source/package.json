@@ -1,0 +1,12 @@
+{
+  "name": "Ooahh",
+  "main": "app://ooahh/views/calculator.html",
+  "window": {
+      "toolbar": false,
+      "resizable": false,
+      "frame": false,
+      "width": 800,
+	 "height": 600
+  },
+  "version": "1.0"
+}

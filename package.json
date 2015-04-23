@@ -1,0 +1,29 @@
+{
+  "name": "ooahh-calculator",
+  "version": "1.0.0",
+  "description": "An Ooahh calculator example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/ooahh-calculator"
+  },
+  "keywords": [
+    "ooahh",
+    "calculator",
+    "math",
+    "arithmetic",
+    "chromeless",
+    "app",
+    "cross-platform",
+    "web"
+  ],
+  "author": "Active 9 LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/active9/ooahh-calculator/issues"
+  },
+  "homepage": "https://github.com/active9/ooahh-calculator"
+}
